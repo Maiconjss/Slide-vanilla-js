@@ -1,2 +1,2 @@
 # Slides-vanilla-js
- A slide with timer and control, you can add as much information as you want! Built with pure javascript.
+ Slide constrúido  Html, css e Javascript puro como seu " motor ", sendo possível adicionar quantas imagens quiser e alterar seu estilo de forma extremamente simples! 
