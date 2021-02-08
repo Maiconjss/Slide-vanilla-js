@@ -1,2 +1,4 @@
+
+
 # Slides-vanilla-js
- Slide constrúido  Html, css e Javascript puro como seu " motor ", sendo possível adicionar quantas imagens quiser e alterar seu estilo de forma extremamente simples.
+ Slide built Html, css and pure Javascript as its "engine", being possible to add as many images as you want and change its style in an extremely simple way.
